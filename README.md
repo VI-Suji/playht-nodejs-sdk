@@ -7,7 +7,7 @@
     />
   </a>
 <p></p>
-<p>AI Powered Voice Generation Platform</p>
+<p>AI Powered Voice Generation Platforms</p>
 
 </div>
 
